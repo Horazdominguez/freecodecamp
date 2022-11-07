@@ -1,5 +1,5 @@
 {
-	"author":"Horaz Dominguez",
+	"author": "Horaz Dominguez",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
